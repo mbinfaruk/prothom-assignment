@@ -4,3 +4,11 @@ main p{
     font-size: 77px;
     font-weight: bolder;
 }
+main img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    margin: 0 auto;
+
+}
